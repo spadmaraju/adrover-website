@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680">
+  <title>Digital advertising screen inside a cab</title>
+  <desc>Original concept illustration from the rear passenger seat. A screen on the left front passenger headrest faces the rear bench. The driver position is on the right.</desc>
+  <defs>
+    <linearGradient id="cab-sky" x2="0" y2="1"><stop stop-color="#C6D0AE"/><stop offset="1" stop-color="#829571"/></linearGradient>
+    <linearGradient id="cab-seat" x2="1" y2="1"><stop stop-color="#4A5C48"/><stop offset="1" stop-color="#15271A"/></linearGradient>
+  </defs>
+  <rect width="1000" height="680" fill="#223D2B"/>
+  <path d="M116 58Q510 8 879 58L921 373H78Z" fill="url(#cab-sky)"/>
+  <g fill="#76906D" opacity=".62"><path d="M112 332V181H177V128H235V265H282V197H356V336ZM682 333V173H745V110H796V211H878V335Z"/></g>
+  <g fill="#CED6B1" stroke="#8FA07A" stroke-width="2">
+    <path d="M431 309V184H448V166H464V184H480V221H531V184H548V166H564V184H580V309H544V274Q507 211 468 274V309Z"/>
+    <path d="M434 165V148Q446 128 461 148V165ZM533 165V148Q547 128 561 148V165Z"/>
+  </g>
+  <path d="M429 311H609L737 393H279Z" fill="#6D7F5C"/>
+  <path d="M509 324V344M509 360V384" stroke="#DBD8A8" stroke-width="5"/>
+  <path d="M0 0H1000V72Q495 8 0 80Z" fill="#142B1C"/>
+  <path d="M0 75 137 37 83 370 0 482ZM1000 75 860 37 919 370 1000 482Z" fill="#1E3424"/>
+  <path d="M23 369Q500 316 974 369L1000 477H0Z" fill="#112A1B"/>
+  <path d="M502 55V104" stroke="#203724" stroke-width="9"/>
+  <rect x="447" y="100" width="110" height="34" rx="10" fill="#233B27"/>
+  <circle cx="758" cy="389" r="54" fill="none" stroke="#091C10" stroke-width="16"/>
+  <path d="M758 386V435M716 368L756 391L799 368" fill="none" stroke="#091C10" stroke-width="10"/>
+  <g fill="url(#cab-seat)" stroke="#6D7C5C" stroke-width="3">
+    <path d="M54 680 88 424Q93 382 137 382H346Q384 382 391 426L431 680Z"/>
+    <rect x="155" y="244" width="174" height="157" rx="45"/>
+    <path d="M580 680 613 424Q621 382 659 382H871Q910 382 917 426L958 680Z"/>
+    <rect x="680" y="244" width="174" height="157" rx="45"/>
+  </g>
+  <path d="M111 662 134 438M337 269H182M707 269H824M887 439L920 662" fill="none" stroke="#8A9675" stroke-width="2" opacity=".45"/>
+  <path d="M208 393V424M276 393V424" stroke="#B3BDA0" stroke-width="8"/>
+  <rect x="93" y="416" width="356" height="211" rx="19" fill="#09190F" stroke="#8D9F77" stroke-width="3"/>
+  <rect x="107" y="430" width="328" height="181" rx="9" fill="#FFD21C"/>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#102619">
+    <text x="126" y="460" font-size="12" font-weight="700" letter-spacing="2">HELLO, HYDERABAD.</text>
+    <text class="live-brand" x="124" y="508" font-size="31" font-weight="700" data-max-width="290">YOUR BRAND</text>
+    <text x="126" y="539" font-size="14">A little ride. A bigger possibility.</text>
+    <rect x="125" y="559" width="95" height="29" rx="15" fill="#087A45"/>
+    <text x="144" y="579" font-size="14" font-weight="700" fill="#F8F7F1">adrover.</text>
+    <path d="M354 574H411M397 560L411 574L397 588" fill="none" stroke="#087A45" stroke-width="4"/>
+  </g>
+  <circle cx="271" cy="619" r="3" fill="#087A45"/>
+</svg>

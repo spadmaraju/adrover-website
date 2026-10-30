@@ -1,0 +1,37 @@
+[
+  {
+    "page": "Home",
+    "file": "index.html",
+    "image": "Adrover-01-Home.png",
+    "width": 1440,
+    "height": 2399
+  },
+  {
+    "page": "Advertising",
+    "file": "advertising.html",
+    "image": "Adrover-02-Advertising.png",
+    "width": 1440,
+    "height": 3359
+  },
+  {
+    "page": "How It Works",
+    "file": "how-it-works.html",
+    "image": "Adrover-03-How-It-Works.png",
+    "width": 1440,
+    "height": 2988
+  },
+  {
+    "page": "Pricing",
+    "file": "pricing.html",
+    "image": "Adrover-04-Pricing.png",
+    "width": 1440,
+    "height": 2635
+  },
+  {
+    "page": "Contact",
+    "file": "contact.html",
+    "image": "Adrover-05-Contact.png",
+    "width": 1440,
+    "height": 1865
+  }
+]
